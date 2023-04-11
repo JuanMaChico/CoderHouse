@@ -1,0 +1,26 @@
+.FooterGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 10vh;
+}
+
+.FooterGrid .ItemIzq {
+  align-self: center;
+  padding-left: 15px;
+}
+
+.FooterGrid .ItemDer {
+  justify-self: end;
+  align-self: center;
+  padding-right: 15px;
+  display: flex;
+}
+
+.FooterGrid .ItemDer p {
+  margin: 0;
+}
+
+.FooterGrid .ItemDer p a img {
+  height: 25px;
+  margin: 25px;
+}
