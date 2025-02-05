@@ -39,6 +39,7 @@ Una vez finalizada la instalación veremos lo siguiente y estamos listos para le
 Utilizando el comando `npm run dev`
 
 ![alt text](instalacionPaso5.png)
+
 y veremos que el proyecto ya se encuentra levantado en la dirección indicada en local:  ➜  Local:   http://localhost:5173/
 
 
